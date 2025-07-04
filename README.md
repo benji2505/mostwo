@@ -1,6 +1,7 @@
 # MoSTwo
 
-A Python application for surface mapping and visualization.
+A Python application for automation inspired by ANN, the call back pattern, but focused on hardware and software automation.
+
 
 ## Project Structure
 
